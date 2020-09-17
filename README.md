@@ -20,4 +20,4 @@ Les projets sont inspirés par le site internet suivant ou vous pouvez aussi té
 * https://support.spatialkey.com/spatialkey-sample-csv-data/
 
 Vous trouverez ici des éléments relatifs aux projets: 
-* https://nbviewer.jupyter.org/github/fabnancyuhp/PYTHON3/blob/master/NOTEBOOK/Projet%20Python.ipynb
+https://github.com/fabnancyuhp/PYTHON3/blob/master/projet.pdf
