@@ -6,7 +6,7 @@ Les buts de ce cours sont :
 
 Vous touverez également des rapelles sur les structures et instructions de base : https://nbviewer.jupyter.org/github/fabnancyuhp/PYTHON3/blob/master/NOTEBOOK/Structure%20et%20instruction%20de%20base.ipynb
 
-* le lien sur 
+
 ```python
 import numpy as np
 ```
